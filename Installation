@@ -1,0 +1,19 @@
+Clone the repository:
+<br>
+git clone https://github.com/yourusername/rental-inventory-system.git
+<br>
+Navigate to the project directory:
+<br>
+cd rental-inventory-system
+<br>
+Install the required dependencies:
+<br>
+npm install
+<br>
+Set up the database by running the provided scripts:
+<br>
+npm run setup-db
+<br>
+Start the application:
+<br>
+npm start
